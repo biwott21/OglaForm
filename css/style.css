@@ -1,0 +1,54 @@
+html, body {
+	font-family: Arvo,Calibri, sans-serif;
+	background: pink;
+}
+
+#ogla {
+	padding: 25px;
+	background: white;
+	width: 40%;
+	border-radius: 25px;
+}
+#left {
+	margin-right: 270px;
+	font-weight: bold;
+	font-size: 17px;
+}
+button {
+	background-color: pink;
+	width:30%;
+	color:black;
+	padding:16px;
+	border:none;
+	cursor:pointer;
+	border-radius: 8.9px;
+}
+button:hover {
+	color: white;
+	opacity: 0.6;
+}
+.submit {
+	padding-top: 3px;
+}
+
+.cancel {
+	padding-top: 5px;
+}
+
+#cancel {
+	width:auto;
+	padding: 5px 15px;
+	margin: 5px 10px;
+}
+
+#input {
+	color: black;
+	padding:8px 19px;
+	margin:9px 0px;
+	border:1.5px solid black;
+	font-size:20px;
+	display:inline-block;
+	border-radius: 10px;
+	width: 48%;
+	resize: horizontal;
+}
